@@ -1,0 +1,4 @@
+<img width="1251" height="568" alt="Use Case Diagramm" src="https://github.com/user-attachments/assets/65cd0d06-b1cf-46e4-bc10-7151a017a8f3" />
+<img width="1138" height="497" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/9f35a5f2-b552-4f25-956d-ff232f5b3332" />
+<img width="1462" height="695" alt="Class Diagram" src="https://github.com/user-attachments/assets/357ed233-3cb9-4099-9e68-142a4b590f0a" />
+<img width="1118" height="698" alt="Activity Diagram" src="https://github.com/user-attachments/assets/b845cb02-b078-4191-9419-5039522e2092" />
