@@ -1,5 +1,5 @@
 # Диаграмма юз кейсов
-<img width="1251" height="568" alt="Activity Diagram" src="https://github.com/user-attachments/assets/65cd0d06-b1cf-46e4-bc10-7151a017a8f3" />
+<img width="970" height="464" alt="image" src="https://github.com/user-attachments/assets/ed041ac8-a681-4769-8af7-aeb965e724de" />
 
 # Диаграмма последовательностей
 <img width="1138" height="497" alt="Class Diagram" src="https://github.com/user-attachments/assets/9f35a5f2-b552-4f25-956d-ff232f5b3332" />
